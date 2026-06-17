@@ -9,8 +9,11 @@ This repository contains a comprehensive Power BI dashboard developed for **Poha
 
 ## Key Insights
 1 **Macro Distribution:** Analyzed recipe volumes across various regional cuisines and course types.
+
 2 **Dietary Analysis:** Evaluated the percentage split between Vegetarian, Non-Vegetarian, and Diabetic-Friendly options.
+
 3 **Efficiency Metrics:** Identified that 30 minutes is the most frequent total time across the dataset, representing 2,395 recipes.
+
 4 **Niche Tracking:** Isolated specific regional profiles (Andhra Cuisine) and specific health-focused ingredients (Bitter Gourd).
 
 ## Files Included
