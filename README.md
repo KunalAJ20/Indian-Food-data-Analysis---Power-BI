@@ -1,6 +1,7 @@
 # Indian-Food-data-Analysis---Power-BI
 
-<img width="1012" height="572" alt="image" src="https://github.com/user-attachments/assets/dfaa529a-a585-472e-aaeb-82957e36b2e9" />
+<img width="1166" height="661" alt="image" src="https://github.com/user-attachments/assets/7d7a4db4-c68a-447c-bd5a-66d7c2f17736" />
+
 
 
 
