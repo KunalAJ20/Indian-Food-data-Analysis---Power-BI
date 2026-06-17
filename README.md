@@ -33,4 +33,4 @@ This repository contains a comprehensive Power BI dashboard developed for **Poha
 
 2. **Time and Efficiency Analysis** - It revealed that 30 min is the most frequent total time across the dataset , representing 2395 recipes.It shows that indian cuisine is highly adaptable fro quick and easy meal prep marketing.
 
-3. **Targeted Segment Tracking - Used precise cataloging for Andhra Cuisine and used custom DAX string to pull the exact count of recipes using bitter gourd.It allows the company to track the exact number.
+3. **Targeted Segment Tracking** - Used precise cataloging for Andhra Cuisine and used custom DAX string to pull the exact count of recipes using bitter gourd.It allows the company to track the exact number.
